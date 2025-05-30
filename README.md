@@ -19,7 +19,7 @@ The HeRCULES_Pointcloud_Toolbox excels with two core functionalities:
 
 ## Files and Functions
 1. binVisualizer.py: Visualize the bin file using open3d.
-- Input: bin file from HeLiPR dataset.
+- Input: bin file from HeRCULES dataset.
 - Output: visualize the 3D pointcloud via open3d.
 2. bin2pcd.py: Reads .bin files from different sensors and outputs processed data in .pcd format.
 
