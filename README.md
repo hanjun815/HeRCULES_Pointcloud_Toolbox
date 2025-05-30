@@ -15,7 +15,7 @@ For ROS message usage from the HeRCULES dataset, refer to: [https://github.com/h
 
 The HeRCULES_Pointcloud_Toolbox excels with two core functionalities:
 - Visualization for a comprehensive graphical representation of range sensor data.
-- bin to pcd 
+- File Handling(bin to pcd) 
 
 ## Files and Functions
 1. python/binVisualizer.py: Visualize the bin file using open3d.
