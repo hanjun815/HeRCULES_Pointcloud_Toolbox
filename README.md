@@ -5,7 +5,7 @@
 ![Image](https://github.com/user-attachments/assets/23b06242-baea-45d0-b941-140038ea2557) ![Image](https://github.com/user-attachments/assets/7557ce09-8abc-4769-9cf8-b62d103e3bf0)
 
 <img src="https://github.com/user-attachments/assets/23b06242-baea-45d0-b941-140038ea2557" width="400" height="200"/>
-<img src="https://github.com/user-attachments/assets/23b06242-baea-45d0-b941-140038ea2557](https://github.com/user-attachments/assets/7557ce09-8abc-4769-9cf8-b62d103e3bf0)" width="400" height="200"/>
+<img src="https://github.com/user-attachments/assets/7557ce09-8abc-4769-9cf8-b62d103e3bf0" width="400" height="200"/>
  </div>
 
 ## What is Pointcloud Toolbox?
